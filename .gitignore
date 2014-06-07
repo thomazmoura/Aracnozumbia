@@ -1,0 +1,14 @@
+#############
+## Unity3D
+#############
+
+# Unity .gitignore file.
+.DS_Store
+*.csproj
+*.sln
+Temp
+*.pidb
+Build
+Library/
+Library/assetDatabase3
+Assembly-CSharp-Editor.userprefs
